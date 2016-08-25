@@ -4,9 +4,14 @@
    "tags": ["rotation","blank"] 
    "questions": "What is your favority color",
    "answer": "Torque"
-}
+},
 {
   "tag": ["bones"], 
   "question": "What is the patella?",
   "answer": "The patella is a knee bone."
+},
+{
+  "tag": ["muscles"],
+  "question": "What is the sternocleidomastoid?"
+  "answer": "The sternocleidomastiod is muscle in connecting the neck and jaw."
 }
